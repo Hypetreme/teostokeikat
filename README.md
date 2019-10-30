@@ -1,29 +1,14 @@
-# opendata-app
+# Teostokeikat
 
-## Project setup
-```
-npm install
-```
+Search for all shows from years 2014-2017 that have been informed to Teosto by city. http://api.teosto.fi/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+LINK TO SITE: 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Built With
 
-### Run your tests
-```
-npm run test
-```
+* [Vue.js](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [Vuetify](https://github.com/vuetifyjs/vuetify) - Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze.
+* [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+## Author
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* **Janne Karppinen**
