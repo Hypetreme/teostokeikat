@@ -135,7 +135,7 @@ export default {
       this.eventDetails = [];
       axios
         .get(
-          'http://api.teosto.fi/' +
+          'https://api.teosto.fi/' +
             this.year +
             '/municipality?name=' +
             this.place +
